@@ -1,0 +1,15 @@
+C:\Users\ehass\Documents\Final Project\Service\SearchingHost\obj\Debug\SearchingHost.csprojResolveAssemblyReference.cache
+C:\Users\ehass\Documents\Final Project\Service\SearchingHost\obj\Debug\SearchingHost.csproj.CoreCompileInputs.cache
+C:\Users\ehass\Documents\Final Project\Service\SearchingHost\bin\Debug\SearchingHost.exe.config
+C:\Users\ehass\Documents\Final Project\Service\SearchingHost\bin\Debug\SearchingHost.exe
+C:\Users\ehass\Documents\Final Project\Service\SearchingHost\bin\Debug\SearchingHost.pdb
+C:\Users\ehass\Documents\Final Project\Service\SearchingHost\bin\Debug\SearchingService.dll
+C:\Users\ehass\Documents\Final Project\Service\SearchingHost\bin\Debug\Nest.dll
+C:\Users\ehass\Documents\Final Project\Service\SearchingHost\bin\Debug\Elasticsearch.Net.dll
+C:\Users\ehass\Documents\Final Project\Service\SearchingHost\bin\Debug\SearchingService.pdb
+C:\Users\ehass\Documents\Final Project\Service\SearchingHost\bin\Debug\SearchingService.dll.config
+C:\Users\ehass\Documents\Final Project\Service\SearchingHost\bin\Debug\Nest.xml
+C:\Users\ehass\Documents\Final Project\Service\SearchingHost\bin\Debug\Elasticsearch.Net.xml
+C:\Users\ehass\Documents\Final Project\Service\SearchingHost\obj\Debug\SearchingHost.csproj.CopyComplete
+C:\Users\ehass\Documents\Final Project\Service\SearchingHost\obj\Debug\SearchingHost.exe
+C:\Users\ehass\Documents\Final Project\Service\SearchingHost\obj\Debug\SearchingHost.pdb
